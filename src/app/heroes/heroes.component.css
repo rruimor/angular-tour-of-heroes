@@ -1,4 +1,9 @@
 /* HeroesComponent's private CSS styles */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
 .selected {
   background-color: #CFD8DC !important;
   color: white;
